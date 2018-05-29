@@ -14,3 +14,5 @@ git/gitconfig.local.symlink
 
 vim/vim.symlink/bundle/*
 !vim/vim.symlink/bundle/.gitignore
+!vim/vim.symlink/bundle/Vundle.vim
+
